@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Lab4</string>
+    <string name="my_name">Guanji Chen</string>
+    <string name="button_id1">button_id1</string>
+    <string name="button_id_main">button_id2</string>
+    <string name="name_textView">name_textView</string>
+    <string name="status_textview">status_textview</string>
 </resources>
